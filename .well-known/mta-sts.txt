@@ -1,5 +1,5 @@
 version: STSv1
 mode: none
-mx: mx.emailarray.com
-mx: mx2.emailarray.com
+mx: mx0001.neo.space
+mx: mmx0002.neo.space
 max_age: 604800
